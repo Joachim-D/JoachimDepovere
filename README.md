@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JoachimDepovere
+- 👀 I’m interested in data science
+- 📫 How to reach me joachimdepovere@gmail.com
